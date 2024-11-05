@@ -6,6 +6,7 @@ const fs = require('fs/promises');
 const defaultIconConfig = {
     'android-icon': [36, 48, 72, 96, 144, 192],
     'apple-icon': [57, 60, 72, 76, 114, 120, 144, 152, 180],
+    'ms-icon': [70, 144, 150, 310],
     'favicon': [16, 32, 96]
 };
 
